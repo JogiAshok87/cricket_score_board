@@ -1,0 +1,10 @@
+.userView-bg{
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.userView-bg h1{
+    font-size: 30px;
+}
